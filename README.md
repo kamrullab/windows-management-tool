@@ -140,6 +140,8 @@ Here’s a full list of available commands:
 
 #### **Option 2: Direct Download**  
 If you want to skip cloning and directly download the script:  
+![image](https://github.com/user-attachments/assets/9a66633a-2774-4fbe-b599-6ad2374388b0)
+
 - [Download the Windows Management Tool.cmd](https://github.com/kamrullab/windows-management-tool/blob/main/windows%20management%20tool.cmd)  
 
 > After downloading, right-click the file and select **Run as Administrator**.  
